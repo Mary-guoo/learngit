@@ -1,5 +1,3 @@
 hello hello
 hello hello
 do your best
-world
-& Creating a new branch is quick
